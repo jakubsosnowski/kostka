@@ -56,4 +56,4 @@ def calculate_value(dice_code):
     return result
 
 
-print(calculate_value('40D10-200'))
+
